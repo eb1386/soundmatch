@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Heart, X, Users, Search, Play, Pause, SkipForward, TrendingUp, Plus } from 'lucide-react';
 
 const SPOTIFY_CLIENT_ID = '9f2358b6e52447f9835f01ed74b83792';
-const REDIRECT_URI = 'https://localhost:3000';
+const REDIRECT_URI = 'https://eb1386.github.io/soundmatch/';
 const SCOPES = [
   'user-read-private',
   'user-read-email',
